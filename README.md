@@ -1,1 +1,1 @@
-A Gold Rolex
+AGoldRolex
