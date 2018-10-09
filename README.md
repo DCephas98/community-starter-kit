@@ -56,6 +56,6 @@ If you need help using this app, we encourage you to:
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
 
 # community-starter-kit
-  Meeting Mona
-  A Gold Rolex
-  master
+Meeting Mona
+A Gold Rolex
+master
