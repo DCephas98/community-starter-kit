@@ -1,3 +1,5 @@
+<<<<<<< add-readme
+
 # welcome bot: A Probot App
 
 -Bot 
@@ -56,3 +58,7 @@ This project is maintained by Monalisa Octocat and friends. Use of this project 
 =======
 # community-starter-kit
 Meeting Mona
+
+# community-starter-kit
+Meeting Mona
+>>>>>>> master
