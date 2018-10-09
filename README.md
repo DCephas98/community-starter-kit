@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
--Learning to code
+-Bot 
 
 ## What it does
 
--Help begginers on coding
+-Help begginers in the community
 
 ## Getting started
 
