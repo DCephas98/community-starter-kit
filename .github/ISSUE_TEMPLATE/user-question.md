@@ -2,8 +2,8 @@ _Use this template if you have questions about how to use the Team Roundup app. 
 
 ## My question
 
-_Briefly describe your question here. What are you trying to accomplish with Team Roundup bot?_
+_I am Trying to understand github better to start coding_
 
 ## I've already tried
 
-_Help us help you by letting us know what you have already tried in your efforts to accomplish this. If you don't put anything here, we are likely to point you to the docs :wink:_
+_ :wink:_
